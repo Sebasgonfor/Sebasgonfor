@@ -35,7 +35,7 @@ reporting, offensive-language moderation, document digitization.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **AI Workspace** *(private)* | Meeting transcripts → verified, traceable tasks. 4-layer PII redaction with zero verified leaks. Human review queue. **0.92 precision** against a hand-validated golden set. | TypeScript · Postgres + pgvector · Docker |
+| **[AI Workspace](https://github.com/Sebasgonfor/meeting-intelligence)** | Meeting transcripts → verified, traceable tasks. 4-layer PII redaction with zero verified leaks. Human review queue. **0.92 precision** against a hand-validated golden set. | TypeScript · Postgres + pgvector · Docker |
 | **FinFlow Agent** *(private)* | Autonomous financial agent. Coordinator + 3 specialists, proactive cron triggers, persistent memory. No tool moves money without explicit approval. | Cloudflare Workers · Gemini · Firestore |
 | **[Salto](https://github.com/Sebasgonfor/SaltoAI)** 🏆 | **1st place, Barranqui-IA 2026 Hackathon.** Matching young talent to their first formal job. Adaptive LLM interview → evidence-based profile → explainable 4-dimension ranking. | Next.js 15 · Gemini · embeddings |
 | **[moodle-cal-sync](https://github.com/Sebasgonfor/moodle-cal-sync)** | Scrapes Moodle deadlines into a live iCal feed with tiered deadline alerts. Small, but it saved me every week. | Python · Flask · APScheduler |
