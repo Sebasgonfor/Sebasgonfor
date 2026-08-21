@@ -15,7 +15,7 @@ Currently at **CooWeb**, shipping for clients in logistics, healthcare and retai
 **🤖 LLM workflows in production**
 Document intake and extraction, summarization, semantic matching, RAG. Shipped an AI
 digitization pipeline that processes structured data from 9 document types across
-**8,254 documents and 381 companies**.
+**8,500+ documents, 384 companies and 490 drivers**.
 
 **🛡️ Agents with guardrails**
 Multi-agent orchestration, function calling, propose-then-approve flows, immutable audit
