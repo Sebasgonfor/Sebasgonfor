@@ -74,7 +74,7 @@ bugs to me, not from a classroom.
 
 ### Reach me
 
-📫 sebastiangonzafor@icloud.com · 📍 Barranquilla, Colombia · Open to remote work
+📫 sebastiangonzafor@icloud.com · 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-gonzalez-fornaris-2b139b35a/) · 📍 Barranquilla, Colombia · Open to remote work
 
 Some of my best work lives in private repos — happy to walk through any of it.
 
